@@ -1,0 +1,66 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      true,
+      null,
+      true,
+      null,
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": true,
+  "group-list": [
+    "hero",
+    "ui",
+    "monster",
+    "attack_effect",
+    "other"
+  ],
+  "last-module-event-record-time": 1583322965175,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "e5c8280e-bba5-4bd8-8be8-7e976a08f9fa",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false
+}

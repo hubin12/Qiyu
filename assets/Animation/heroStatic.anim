@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "heroStatic",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "91ace881-cf35-419b-8f7b-ef3d821cafee"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

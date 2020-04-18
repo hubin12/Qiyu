@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "monster2Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "333b8eca-4acf-425a-a1ce-e2e5bd01d008"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "da00ea78-43cb-481f-9fc0-1d2976e052ea"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "16103828-f59c-43c4-9566-3941ae0dcdda"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "9f15637a-2d5e-43f4-bfdd-57da22d17038"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
