@@ -1,0 +1,2 @@
+# Qiyu
+一款用Cocos Creator为游戏引擎typeScript为开发语言开发的单机小游戏
